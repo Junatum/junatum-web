@@ -1,0 +1,9 @@
+---
+layout: default
+img: update.png
+category: Services
+title: 매일 매일 새롭게!
+description: |
+---
+  사용자 분들의 인기 요청 사항이 매일 매일 업데이트가 됩니다.<br>
+  우리는 항상 사용자들의 의견을 듣고 반영합니다.

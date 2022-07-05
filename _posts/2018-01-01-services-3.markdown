@@ -1,0 +1,10 @@
+---
+layout: default
+img: book.png
+img_link: http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&orderClick=LEB&barcode=9788956593418
+category: Services
+title: 인기 서적에도 소개된 유캔스톡
+description: |
+---
+  <i class="fa fa-quote-left" aria-hidden="true"></i> 유캔스톡은 복잡한 분석대신에 투자자들이 궁금해할 만한 주요 질문을 바탕으로 단순하고 깔끔하게 미국 주식 투자정보를 제공한다. <i class="fa fa-quote-right" aria-hidden="true"></i><br><br>
+  -- 안석훈, 최경수, 최아원. <i><u>2018 미국 주식 투자 지도</u></i>, 페이지 30-32.

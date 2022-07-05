@@ -1,0 +1,11 @@
+---
+layout: default
+img: book2.png
+img_link: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956593586
+category: Services
+title: 또! 인기 서적에 소개된 유캔스톡
+description: |
+---
+
+<i class="fa fa-quote-left" aria-hidden="true"></i> 생생한 투자정보를 한글로 쉽게 확인하자 <i class="fa fa-quote-right" aria-hidden="true"></i><br><br>
+-- 안석훈, 최아원, 강범준. <i><u>미국 주식 투자 지도 2021 - 빅데이터로 보는 글로벌 유니버스 101</u></i>, 페이지 25.

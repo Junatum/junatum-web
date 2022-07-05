@@ -1,0 +1,51 @@
+<section id="services">
+<!-- Page Content -->
+{% for post in site.posts reversed %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% if thecycle == 'odd' %}
+  <div class="content-section-a">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5 col-sm-6">
+          <hr class="section-heading-spacer">
+          <div class="clearfix"></div>
+          <h2 class="section-heading">{{ post.title }}</h2>
+          <div class="lead">{{ post.content }}</div>
+        </div>
+        <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+          {% if post.img_link %}
+          <a href="{{ post.img_link }}" target="_blank">
+            <img class="img-responsive img-rounded img-centered" src="img/services/{{ post.img }}" alt="">
+          </a>
+          {% else %}
+          <img class="img-responsive img-rounded img-centered" src="img/services/{{ post.img }}" alt="">
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="content-section-b">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6">
+          <hr class="section-heading-spacer">
+          <div class="clearfix"></div>
+          <h2 class="section-heading">{{ post.title }}</h2>
+          <div class="lead">{{ post.content }}</div>
+        </div>
+        <div class="col-lg-5 col-sm-pull-6 col-sm-6">
+          {% if post.img_link %}
+          <a href="{{ post.img_link }}" target="_blank">
+            <img class="img-responsive img-rounded img-centered" src="img/services/{{ post.img }}" alt="">
+          </a>
+          {% else %}
+          <img class="img-responsive img-rounded img-centered" src="img/services/{{ post.img }}" alt="">
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
+</section>

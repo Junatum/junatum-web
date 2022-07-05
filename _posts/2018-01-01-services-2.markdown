@@ -1,0 +1,8 @@
+---
+layout: default
+img: fioneers_logo.png
+category: Services
+title: 유캔스톡과 함께 하는<br>Fioneers Investment
+description: |
+---
+  Fioneers Investment는 미국 캘리포니아에 등록된 자산운용사이며, 유캔스톡과는 초기 디자인부터 현재까지 긴밀히 협력하고 있습니다.
