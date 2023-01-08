@@ -2,4 +2,4 @@
 Junatum
 ============
 
-© 2015-2022 Junatum Corporation. All rights reserved.
+© 2015-2023 Junatum Corporation. All rights reserved.
